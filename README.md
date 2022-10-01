@@ -18,9 +18,8 @@ Here are some ideas to get you started:
 
 I am Siddak Bagga
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=(https://www.linkedin.com/in/siddak-bagga-60921b218/)](https://www.linkedin.com/in/siddak-bagga-60921b218/)
-[![Instagram Badge](https://img.shields.io/badge/-siddak._.sk-purple?style=flat-square&logo=instagram&logoColor=white&link=(https://www.instagram.com/siddak._.sk/)](https://www.instagram.com/siddak._.sk/)
-[![Youtube Badge](https://img.shields.io/badge/-Youtube-darkred?style=flat-square&logo=youtube&logoColor=white&link=(https://www.youtube.com/channel/UCBR2snYj7Me69RUo2KlS4Bw)](https://www.youtube.com/channel/UCBR2snYj7Me69RUo2KlS4Bw)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/siddak-bagga-60921b218/)](https://www.linkedin.com/in/siddak-bagga-60921b218/)
+[![Instagram Badge](https://img.shields.io/badge/-siddak._.sk-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/siddak._.sk/)](https://instagram.com/siddak._.sk)
 [![Medium Badge](https://img.shields.io/badge/-@siddak-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@siddak77777/)](https://medium.com/@siddak77777)
 [![Gmail Badge](https://img.shields.io/badge/-siddakbagga@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:siddakbagga@gmail.com)](mailto:siddakbagga@gmail.com)
 
