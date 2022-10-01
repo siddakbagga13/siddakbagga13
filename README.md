@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ### Hello Folks! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
 
-I am Anirudh Emmadi, people call me Ani, a recent computer science graduate from [The University of Texas at Dallas](https://utdallas.edu/). I am a tech enthusiast & an open-source advocate. Always open to collaborating on projects and innovative/disruptive ideas. Feel free to connect with me here:
+I am Siddak Bagga
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=(https://www.linkedin.com/in/siddak-bagga-60921b218/)](https://www.linkedin.com/in/siddak-bagga-60921b218/)
 [![Instagram Badge](https://img.shields.io/badge/-siddak._.sk-purple?style=flat-square&logo=instagram&logoColor=white&link=(https://www.instagram.com/siddak._.sk/)](https://www.instagram.com/siddak._.sk/)
