@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Hello Folks! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
+### Hello Folks!
 
 I am Siddak Bagga
 
