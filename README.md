@@ -23,6 +23,9 @@ I am Siddak Bagga
 [![Medium Badge](https://img.shields.io/badge/-@siddak-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@siddak77777/)](https://medium.com/@siddak77777)
 [![Gmail Badge](https://img.shields.io/badge/-siddakbagga@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:siddakbagga@gmail.com)](mailto:siddakbagga@gmail.com)
 
+<!-- Any image aligned to the right. Beware the width -->
+<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+
 ## ⚡ Technologies
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
