@@ -48,8 +48,10 @@ I am Siddak Bagga
 
 ![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=siddakbagga13&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=siddakbagga13&hide=TeX&layout=compact)
+![Siddak's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jaspreet099&show_icons=true&theme=tokyonight)
 
+[![Top Languages used](https://github-readme-stats.vercel.app/api/top-langs/?username=Jaspreet099&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+<br>
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=siddakbagga13)
