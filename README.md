@@ -50,7 +50,7 @@ I am Siddak Bagga
 
 ![Siddak's GitHub stats](https://github-readme-stats.vercel.app/api?username=siddakbagga13&show_icons=true&theme=tokyonight)
 
-[![Top Languages used](https://github-readme-stats.vercel.app/api/top-langs/?username=siddakbagga13&layout=compact)]
+[![Top Languages used](https://github-readme-stats.vercel.app/api/top-langs/?username=siddakbagga13&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
 
